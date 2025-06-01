@@ -7,7 +7,7 @@
 - BINOUSHTA
 - DIARRA
 - FAMISTHA
-- NDEYE MARIEME SY
+- NDEYE MAREME SY
 - KITTY
 - OUSMANE MBAYE
 - MAME NDOYE
@@ -26,7 +26,7 @@
   
   -**Gestion du personnel(professeurs)**- FAMISTHA
  
-  -**Interface parent**- NDEYE MARIEME SY
+  -**Interface parent**- NDEYE MAREME SY
  
   -**Dashboard administrateur**- KITTY
  
