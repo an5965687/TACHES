@@ -14,7 +14,7 @@
 - MARISHA
   ---
   ## REPARTITION DES FONCTIONNALITES:
-**Inscription des élèves **- AWA NDIAYE
+**Inscription des étudiants **- AWA NDIAYE
  
   -**Connexion des utilisateurs**- DARKOSS
  
@@ -26,7 +26,7 @@
   
   -**Gestion du personnel(professeurs)**- FAMISTHA
  
-  -**Interface parent**- NDEYE MAREME SY
+  -**Dégager l'idée du projet, identifier les objectifs spécifiques...**- NDEYE MAREME SY
  
   -**Dashboard administrateur**- KITTY
  
